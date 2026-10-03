@@ -1,0 +1,12 @@
+Oct 02 08:41:12 server sshd[1842]: Failed password for invalid user admin from 185.220.101.42 port 41221 ssh2
+Oct 02 08:41:18 server sshd[1844]: Failed password for invalid user admin from 185.220.101.42 port 41234 ssh2
+Oct 02 08:41:25 server sshd[1847]: Failed password for invalid user admin from 185.220.101.42 port 41251 ssh2
+Oct 02 08:41:33 server sshd[1850]: Failed password for invalid user admin from 185.220.101.42 port 41267 ssh2
+Oct 02 08:41:41 server sshd[1853]: Failed password for invalid user admin from 185.220.101.42 port 41279 ssh2
+Oct 02 08:42:03 server sshd[1861]: Accepted password for analyst from 185.220.101.42 port 41302 ssh2
+Oct 02 08:42:17 server sshd[1865]: pam_unix(sshd:session): session opened for user analyst
+Oct 02 08:43:02 server sudo: analyst : TTY=pts/0 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/id
+Oct 02 08:43:19 server sudo: analyst : TTY=pts/0 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Oct 02 08:44:07 server sshd[1865]: pam_unix(sshd:session): session closed for user analyst
+Oct 02 08:45:12 server sshd[1872]: Failed password for invalid user test from 185.220.101.42 port 41411 ssh2
+Oct 02 08:45:19 server sshd[1874]: Failed password for invalid user test from 185.220.101.42 port 41422 ssh2
